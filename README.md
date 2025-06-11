@@ -20,7 +20,7 @@ A reinforcement learning agent for *The Binding of Isaac: Repentance* using **Re
 
 ### Game
 - The Binding of Isaac: Repentance (Steam)
-- Repentogon installed: https://github.com/4ian/Repentogon 
+- Repentogon installed: (https://github.com/TeamREPENTOGON/REPENTOGON)
 
 ### Python
 ```bash
